@@ -1,0 +1,99 @@
+country,food_item,market,availability
+Benin,Rice,Cotonou Market,100
+Benin,Beans,Porto-Novo Market,80
+Benin,Cassava,Parakou Market,90
+Benin,Maize,Kandi Market,75
+Benin,Yams,Abomey Market,85
+Benin,Plantain,Covè Market,95
+Burkina Faso,Millet,Ouagadougou Market,120
+Burkina Faso,Wheat,Bob-Dioulasso Market,95
+Burkina Faso,Sorghum,Koudougou Market,100
+Burkina Faso,Groundnuts,Banfora Market,85
+Burkina Faso,Cowpeas,Dédougou Market,90
+Burkina Faso,Tomatoes,Ouahigouya Market,75
+Cape Verde,Cassava,Praia Market,130
+Cape Verde,Yams,Assomada Market,105
+Cape Verde,Potatoes,Sal Rei Market,90
+Cape Verde,Tomatoes,Calheta Market,75
+Cape Verde,Onions,Porto Novo Market,85
+Cape Verde,Peppers,Mosteiros Market,95
+Gambia,Rice,Banjul Market,110
+Gambia,Groundnuts,Serekunda Market,90
+Gambia,Millet,Brikama Market,100
+Gambia,Cowpeas,Kerewan Market,85
+Gambia,Beans,Basse Market,80
+Gambia,Peanuts,Kuntaur Market,75
+Ghana,Yam,Accra Market,130
+Ghana,Cassava,Tamale Market,105
+Ghana,Plantain,Kumasi Market,90
+Ghana,Tomatoes,Cape Coast Market,75
+Ghana,Peppers,Takoradi Market,85
+Ghana,Okra,Ho Market,95
+Guinea,Rice,Conakry Market,120
+Guinea,Cassava,Kindia Market,100
+Guinea,Millet,Nzerekore Market,90
+Guinea,Beans,Boke Market,85
+Guinea,Yams,Mamou Market,80
+Guinea,Groundnuts,Kankan Market,75
+Guinea Bissau,Cashews,Bissau Market,130
+Guinea Bissau,Rice,Gabu Market,105
+Guinea Bissau,Cassava,Bafata Market,90
+Guinea Bissau,Millet,Cacheu Market,75
+Guinea Bissau,Yams,Bissora Market,85
+Guinea Bissau,Potatoes,Catió Market,95
+Ivory Coast,Cocoa,Yamoussoukro Market,140
+Ivory Coast,Cassava,Abidjan Market,120
+Ivory Coast,Yams,Bouake Market,100
+Ivory Coast,Plantain,Daloa Market,85
+Ivory Coast,Tomatoes,San-Pédro Market,80
+Ivory Coast,Peppers,Man Market,75
+Liberia,Rice,Monrovia Market,110
+Liberia,Cassava,Ganta Market,90
+Liberia,Millet,Gbarnga Market,100
+Liberia,Beans,Kakata Market,85
+Liberia,Yams,Buchanan Market,80
+Liberia,Groundnuts,Harperville Market,75
+Mali,Millet,Bamako Market,130
+Mali,Rice,Sikasso Market,105
+Mali,Cassava,Mopti Market,90
+Mali,Groundnuts,Kayes Market,75
+Mali,Yams,Ségou Market,85
+Mali,Tomatoes,Koutiala Market,95
+Mauritania,Rice,Nouakchott Market,120
+Mauritania,Dates,Nouadhibou Market,95
+Mauritania,Millet,Kiffa Market,100
+Mauritania,Cassava,Zouerate Market,85
+Mauritania,Yams,Aleg Market,80
+Mauritania,Beans,Kaedi Market,75
+Niger,Millet,Niamey Market,130
+Niger,Rice,Zinder Market,105
+Niger,Cassava,Maradi Market,90
+Niger,Beans,Agadez Market,75
+Niger,Yams,Tahoua Market,85
+Niger,Groundnuts,Dosso Market,95
+Nigeria,Rice,Lagos Market,120
+Nigeria,Beans,Kano Market,100
+Nigeria,Cassava,Abuja Market,90
+Nigeria,Maize,Port Harcourt Market,85
+Nigeria,Yams,Ibadan Market,80
+Nigeria,Plantain,Benin
+Nigeria,Plantain,Benin Market,95
+Senegal,Peanuts,Dakar Market,140
+Senegal,Millet,Thies Market,120
+Senegal,Cassava,Kaolack Market,100
+Senegal,Groundnuts,Ziguinchor Market,85
+Senegal,Yams,Tambacounda Market,80
+Senegal,Rice,Saint-Louis Market,75
+Sierra Leone,Rice,Freetown Market,110
+Sierra Leone,Cassava,Bo Market,90
+Sierra Leone,Millet,Kenema Market,100
+Sierra Leone,Beans,Makeni Market,85
+Sierra Leone,Yams,Koidu Market,80
+Sierra Leone,Groundnuts,Port Loko Market,75
+Togo,Maize,Lome Market,130
+Togo,Cassava,Kara Market,105
+Togo,Yams,Sokode Market,90
+Togo,Plantain,Atakpame Market,75
+Togo,Beans,Dapaong Market,85
+Togo,Rice,Tsévié Market,95
+
